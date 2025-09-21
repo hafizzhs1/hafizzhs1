@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Hafizh  from Indonesia <br><br>- 🔭 I’m student<br>- 📚 I want to learn all languages<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Hafizh from Indonesia <br><br>- 🔭 I’m student<br>- 📚 I want to learn all languages<br>- ⚡ In my free time I try to learn</p>
 
 ###
 
